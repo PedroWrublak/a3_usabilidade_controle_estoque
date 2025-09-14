@@ -1,6 +1,6 @@
-A3 Usabilidade Controle de Estoque
-Description
+## A3 Usabilidade Controle de Estoque
 
+Description
 This is a Java Web project for managing stock control. It uses JSP for the front-end and Java classes for business logic, with a connection to a MySQL database. The project structure includes source code, web resources, and build configurations.
 
 ## 📂 Project Structure
