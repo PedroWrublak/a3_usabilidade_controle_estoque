@@ -1,0 +1,9 @@
+model\Categoria.class
+model\Movimentacao.class
+com\mycompany\a3_usabilidade_controle_estoque\JakartaRestConfiguration.class
+controller\ProdutoServlet.class
+dao\ProdutoDao.class
+dao\MovimentacaoDao.class
+model\Produto.class
+com\mycompany\a3_usabilidade_controle_estoque\resources\JakartaEE10Resource.class
+dao\CategoriaDao.class
